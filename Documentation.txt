@@ -1,0 +1,7 @@
+Documentation:
+(https://www.youtube.com/watch?v=moBhzSC455o)
+
+30/09/2020:
+
+This project will help me understand how css grids work and how to implement it in a website.
+This is a code along project from traversy youtube channel.
